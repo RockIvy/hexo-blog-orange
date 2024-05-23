@@ -65,8 +65,8 @@
   map:
     title: 我现在住在
     StrengthenTitle: 中国，杭州市
-    background: https://bu.dusays.com/2023/07/05/64a4c61cb20ef.jpg
-    backgroundDark: https://bu.dusays.com/2023/07/05/64a4c63495ac5.jpg
+    background: /img/hangzhoudizhi.png
+    backgroundDark: /img/hangzhoudizhi2.png
   selfInfo:
     selfInfoTips1: 生于
     selfInfoContentYear: 2004
@@ -77,7 +77,7 @@
   personalities:
     author_name: 执政官
     personality_type: ESFJ-A
-    photo_url: https://bu.dusays.com/2023/07/05/64a4c63495ac5.jpg
+    photo_url: /img/hangzhoudizhi2.png
     personality_img: https://npm.elemecdn.com/anzhiyu-blog@2.0.8/img/svg/ESFJ-A.svg
     name_url: https://www.16personalities.com/ch/esfj-%E4%BA%BA%E6%A0%BC
   maxim:
@@ -119,8 +119,8 @@
     like_bottom: 手机、电脑软硬件
   music:
     music_tips: 音乐偏好
-    music_title: 许嵩、民谣、华语流行
-    music_bg: https://p2.music.126.net/Mrg1i7DwcwjWBvQPIMt_Mg==/79164837213438.jpg
-    music_link: /music
+    music_title: 薛之谦、流行、华语
+    music_bg: https://resource.joker2yue.cn/blog/images/about/music/joker_xue.jpg
+    music_link: /music/?id=648886106&server=netease
 
 

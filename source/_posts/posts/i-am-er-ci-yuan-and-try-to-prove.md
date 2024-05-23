@@ -8,7 +8,7 @@ tags:
   - 漫画
   - 随笔
 categories:
-  - 云游的小安利
+  - ivy的小安利
 ---
 
 ## 引言
@@ -62,15 +62,11 @@ categories:
 试看第一集，猛然发现（彩玉大学理工学研究科学院 1 年级学生 - 冰室菖蒲）女主竟然在 Ubuntu 上用 LaTeX 敲着文档。
 想必作者也至少是个实打实的研究生。
 
-再想起前几个月自己刚翻译的 [【译】30 分钟学会 LaTeX](https://www.yunyoujun.cn/posts/trans-learn-latex-in-30-minutes/) 和 [LaTeX 使用笔记](https://www.yuque.com/yunyoujun/posts/latex-use-note/)。
-
 「很好，我还年轻。」并仍不住暗自笑道：「爷的青春又回来了！」
 
 故事情节用一句话概括就是男女主在实验室借着各种借口公然撒狗粮，迫害学妹小奏。
 
 此后我又去追了漫画，男女主终于证明双方是恋人，却又开始好感度的定义，还发明了「奏爱」这一爱情单位（继续被迫害的小奏）。
-
-![zou-love.jpg](https://cos.yunyoujun.cn/blog/zou-love.jpg)
 
 只是，智力超群的男女主真的会连简单人际感情也搞不明白吗？也许他们早已明白，只是这样做真的很有趣。
 

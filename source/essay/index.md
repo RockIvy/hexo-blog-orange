@@ -1,9 +1,8 @@
 ---
 title: 即刻短文
-date: 2024-04-01 13:43:20
-type: says
-cover: ''
-desc: 分享生活的小确幸
-leftend: ''
-rightend: ''
+date: 2023-07-22 22:06:17
+comments: true
+aside: false
+top_img: false
+type: essay
 ---

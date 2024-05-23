@@ -11,22 +11,6 @@ categories:
   - 中
 ---
 
-## 前言
-
-> 此作为[仓鼠](https://www.yunyoujun.cn/posts/hamster)的续写。参加[某比赛](http://sci.kpcswa.org.cn/index/catalog/tid/89)的第二轮产物。
-
-实际最初第一作完成时，根本没有考虑过会有什么后续。所以内容根本是临时抱佛脚，想到什么写什么。故事大概也不堪卒读。但这终究是自己连续花费几个整天所赶出来的东西，直接丢掉这种事情也绝对做不到。
-
-我还是拿到这里展示了出来，虽然也不会有什么人看到就是了。
-
-顺带一提，我深刻感悟到了 `Deadline 是第一生产力` 这一真理。
-
-自己还画了乱七八糟的插画，色彩一塌糊涂。（ 2018-01-19 ）
-
-<!-- more -->
-
-![hamster-universe](https://cdn.yunyoujun.cn/img/draw/hamster-universe.jpg)
-
 ## 正文
 
 ### 白昼之光，岂知夜色之深。
